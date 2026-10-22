@@ -1,0 +1,27 @@
+************* Module student_grade_system
+original\student_grade_system.py:75:0: C0304: Final newline missing (missing-final-newline)
+original\student_grade_system.py:15:0: C0116: Missing function or method docstring (missing-function-docstring)
+original\student_grade_system.py:15:0: C0103: Function name "addGrade" doesn't conform to snake_case naming style (invalid-name)
+original\student_grade_system.py:15:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+original\student_grade_system.py:19:22: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+original\student_grade_system.py:23:0: C0116: Missing function or method docstring (missing-function-docstring)
+original\student_grade_system.py:26:4: W0702: No exception type(s) specified (bare-except)
+original\student_grade_system.py:30:0: C0116: Missing function or method docstring (missing-function-docstring)
+original\student_grade_system.py:32:7: C0121: Comparison 'gradebook.get(student_id) == None' should be 'gradebook.get(student_id) is None' (singleton-comparison)
+original\student_grade_system.py:35:4: R1703: The if statement can be replaced with 'return bool(test)' (simplifiable-if-statement)
+original\student_grade_system.py:35:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+original\student_grade_system.py:31:4: W0612: Unused variable 'grace_marks' (unused-variable)
+original\student_grade_system.py:41:0: C0116: Missing function or method docstring (missing-function-docstring)
+original\student_grade_system.py:44:10: W0123: Use of eval (eval-used)
+original\student_grade_system.py:43:4: W0612: Unused variable 'avg_score' (unused-variable)
+original\student_grade_system.py:48:0: C0116: Missing function or method docstring (missing-function-docstring)
+original\student_grade_system.py:52:0: C0116: Missing function or method docstring (missing-function-docstring)
+original\student_grade_system.py:56:0: C0116: Missing function or method docstring (missing-function-docstring)
+original\student_grade_system.py:57:8: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+original\student_grade_system.py:57:8: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+original\student_grade_system.py:63:0: C0116: Missing function or method docstring (missing-function-docstring)
+original\student_grade_system.py:6:0: W0611: Unused import json (unused-import)
+
+-----------------------------------
+Your code has been rated at 5.51/10
+
